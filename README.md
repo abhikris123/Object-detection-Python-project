@@ -11,4 +11,4 @@ The system will not only detect threats based on gestures but also trigger an al
 with the help of existing CCTV camera used for surveillance.
 
 
-Sample of Object Detection Result:
+
